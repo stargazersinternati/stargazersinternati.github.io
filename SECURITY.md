@@ -14,7 +14,7 @@ Microsoft
 https://learn.microsoft.com/en-us/legal/termsofuse
 
 ## Supported Versions
-.001
+0.01
 The GitHub Terms of Use for thise project are
 currently being supported with security updates.
 
