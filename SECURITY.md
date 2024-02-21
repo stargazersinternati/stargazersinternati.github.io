@@ -15,24 +15,22 @@ https://learn.microsoft.com/en-us/legal/termsofuse
 
 ## Supported Versions
 .001
-Use this section to tell people about which versions of your project are
+The GitHub Terms of Use for thise project are
 currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
+| 5.0.x   | ✅                |
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
+As a Token Commemorative of thy thoughtful and informative tips and suggestions. We Thank You!!! 
+
 GitHub focuses on integrating security directly into the development process from the start. 
 GitHub Enterprise platform includes native, first-party security features that minimize security risk with a built-in security solution.
-
+GitHub Support:
 https://support.github.com/contact?
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted/declined, based on guidelines, etc.
